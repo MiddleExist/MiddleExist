@@ -10,3 +10,4 @@ Hello Github
 MiddleExist/MiddleExist is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+如同大多数人一样，沉默是金
